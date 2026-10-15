@@ -20,11 +20,10 @@ I build and improve technical systems by understanding operational needs, transl
 | Project / Experience | What it demonstrates | Evidence |
 | --- | --- | --- |
 | **LysipheN IoT Monitoring System** | Python, JavaScript, MySQL, Node-RED, MQTT, Raspberry Pi, ESP32, requirements gathering, deployment | [Repository](https://github.com/MKBySofihrg/LYSIPHEN) |
-| **Python Requirements Tracker** | Python, business requirements, data workflows, UI, CRUD | *In development* |
 | **Control Systems Projects** | MATLAB/Simulink, system identification, PID, state-space control, PLC | [Case study](projects/control-systems.md) |
 | **Electrical Engineering Projects** | AutoCAD, MT/BT systems, single-line diagrams, technical documentation, process improvement | [Case study](projects/electrical-engineering.md) |
 | **Biomedical Instrumentation & Additive Manufacturing** | SolidWorks, prototyping, electrical impedance, experimental validation | [Case study](projects/biomedical-additive-manufacturing.md) |
-| **AOCS / FACSAT Technical Portfolio** | Spacecraft attitude dynamics, simulation, control-system thinking, technical communication | [Case study](projects/aocs-facsat3.md) |
+| **CubeSat B-dot / ADCS V2** | MATLAB/Simulink, 1,000 Monte Carlo runs, FDIR, QFD, FMEA and hardware trade studies | [Evidence and engineering case study](projects/aocs-facsat3.md) |
 
 ## Career highlights
 
